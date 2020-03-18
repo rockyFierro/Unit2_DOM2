@@ -1,0 +1,32 @@
+{
+  "name": "unit2_dom2",
+  "version": "1.0.0",
+  "description": "a lesson on addition of event listeners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockyFierro/Unit2_DOM2.git"
+  },
+  "keywords": [
+    "eventLisenter",
+    "document",
+    "object",
+    "model",
+    "js"
+  ],
+  "author": "rocky Fierro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockyFierro/Unit2_DOM2/issues"
+  },
+  "homepage": "https://github.com/rockyFierro/Unit2_DOM2#readme",
+  "dependencies": {
+    "global": "^4.4.0",
+    "less": "^3.11.1",
+    "less-watch-compiler": "^1.14.6",
+    "lessc": "^1.0.2"
+  }
+}
